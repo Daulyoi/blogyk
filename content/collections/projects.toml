@@ -1,0 +1,13 @@
+layout = "card"
+
+[[item]]
+title = "Tokio"
+link = "https://example.com"
+content = "Tokio is an asynchronous runtime for the Rust programming language."
+tags = ["rust", "async", "runtime"]
+
+[[item]]
+title = "Kubernetes"
+link = "https://example.com"
+content = "Kubernetes, also known as K8s, is an open source system for managing containerized applications."
+tags = ["k8s", "golang"]
