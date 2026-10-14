@@ -11,7 +11,7 @@ generate_feeds = true
 lang = "en"
 
 title = "Posts"
-subtitle = "I write about ...."
+subtitle = "I write about software, philosophy, and the bits and bobs of life."
 
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button

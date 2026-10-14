@@ -42,7 +42,7 @@ nav = [
 # Your info on the home page, if you don't want to display handle/bio/avatar, simply comment out that line
 name = "Daffa Aulia"
 handle = "Daul"
-bio = "This and that. CompSci. SWE, Cloud infra? Who knows. Welcome to my headspace."
+bio = "CompSci Major. I love looking at open source projects. I do SWE, Cloud infra soon maybe? Who knows. Welcome to my headspace."
 # avatar = "img/avatar.webp"
 links = [
   { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
